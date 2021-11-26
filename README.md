@@ -9,8 +9,8 @@
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guidoxie)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guidoxie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
