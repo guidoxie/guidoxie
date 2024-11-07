@@ -4,8 +4,6 @@
 - **工具：** Docker, Git, VSCode
 - **数据库：** MySQL, PostgreSQL, MongoDB
 
----
-
 ### 📊 我的 GitHub 数据
 ![你的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=guidoxie&show_icons=true&theme=radical)
 
