@@ -7,4 +7,4 @@
 ---
 
 ### 📊 GitHub 数据
-![你的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=guidoxie&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&theme=radical)
+![你的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=guidoxie&show_icons=true&theme=vue) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&theme=vue)
