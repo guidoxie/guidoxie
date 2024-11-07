@@ -1,4 +1,4 @@
-# 你好，我是 [你的名字] 👋
+# 你好，我是 [guidoxie] 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/guidoxie?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/guidoxie?style=social)
