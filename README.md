@@ -1,8 +1,8 @@
 ### 🚀 技能
 - **编程语言：** Python, JavaScript, Go
-- **框架：** Flask, React, Gin
+- **框架：** Angular, Gin
 - **工具：** Docker, Git, VSCode
-- **数据库：** MySQL, PostgreSQL, MongoDB
+- **数据库：** MySQL, Redis
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&theme=vue)
 
