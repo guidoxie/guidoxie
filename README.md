@@ -10,5 +10,3 @@
 ![你的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=guidoxie&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&theme=radical)
-
----
