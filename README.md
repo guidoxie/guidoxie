@@ -9,7 +9,7 @@
 
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=guidoxie&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&theme=ambient_gradient">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&hide_border=true&title_color=a0a9af&theme=ambient_gradient">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&hide_border=true&title_color=586069&theme=ambient_gradient">
 </p>
 
 
