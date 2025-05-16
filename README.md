@@ -5,6 +5,7 @@
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&logoColor=white"/>
 </p>
 
 <p>
