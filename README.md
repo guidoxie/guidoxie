@@ -13,4 +13,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&hide_border=true&theme=transparent">
 </p>
 
-
+![亮色](https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake.svg)
