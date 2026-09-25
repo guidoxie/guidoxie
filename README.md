@@ -13,4 +13,8 @@
   <img alt="Top Languages" src="https://github-readme-stats.mrdulin.vercel.app/api/top-langs/?username=guidoxie&layout=compact&hide_border=true&theme=transparent">
 </p>
 
-![亮色](https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guidoxie/guidoxie/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guidoxie/guidoxie/output/github-contribution-grid-snake-light.svg" />
+  <img alt="贪吃蛇" src="https://raw.githubusercontent.com/guidoxie/guidoxie/output/github-contribution-grid-snake.svg" />
+</picture>
