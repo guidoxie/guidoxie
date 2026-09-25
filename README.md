@@ -10,7 +10,7 @@
 
 <p>
   <img alt="Guido's GitHub Stats" src="https://github-readme-stats.mrdulin.vercel.app/api?username=guidoxie&show_icons=true&hide_border=true&theme=transparent">
-  <img alt="Top Languages" src="https://github-readme-stats.mrdulin.vercel.app/api/top-langs/?username=guidoxie&layout=compact&hide_border=true&theme=transparent">
+  <img alt="Most Commit Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guidoxie&theme=transparent">
 </p>
 
 <picture>
