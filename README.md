@@ -9,8 +9,8 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=guidoxie&show_icons=true&hide_border=true&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidoxie&layout=compact&hide_border=true&theme=transparent">
+  <img alt="Guido's GitHub Stats" src="https://github-readme-stats.mrdulin.vercel.app/api?username=guidoxie&show_icons=true&hide_border=true&theme=transparent">
+  <img alt="Top Languages" src="https://github-readme-stats.mrdulin.vercel.app/api/top-langs/?username=guidoxie&layout=compact&hide_border=true&theme=transparent">
 </p>
 
 ![亮色](https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake.svg)
